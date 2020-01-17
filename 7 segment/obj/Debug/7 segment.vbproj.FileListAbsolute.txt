@@ -1,0 +1,11 @@
+C:\Users\Tim\source\repos\7 segment\7 segment\bin\Debug\7 segment.exe.config
+C:\Users\Tim\source\repos\7 segment\7 segment\bin\Debug\7 segment.exe
+C:\Users\Tim\source\repos\7 segment\7 segment\bin\Debug\7 segment.pdb
+C:\Users\Tim\source\repos\7 segment\7 segment\bin\Debug\7 segment.xml
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\7 segment.vbprojAssemblyReference.cache
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\_7_segment.Form1.resources
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\_7_segment.Resources.resources
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\7 segment.vbproj.GenerateResource.cache
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\7 segment.exe
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\7 segment.xml
+C:\Users\Tim\source\repos\7 segment\7 segment\obj\Debug\7 segment.pdb
